@@ -6,7 +6,7 @@ Project site: [http://guilu.github.io/WindowsPowerShell](http://guilu.github.io/
 
 ## Design
 
-![PowerShell Prompt]http://guilu.github.io/WindowsPowerShell/img/powershellw8.png?v=4)
+![PowerShell Prompt](http://guilu.github.io/WindowsPowerShell/img/powershellw8.png?v=4)
 
 Note: Inspiration from all dotfiles repos out there....
 
