@@ -2,11 +2,11 @@
 
 Custom prompt for windows 8's PowerShell 2 tool.
 
-Project site: [http://guilu.github.com/powershellw8/](http://guilu.github.com/powershellw8/)
+Project site: [http://guilu.github.io/WindowsPowerShell](http://guilu.github.io/WindowsPowerShell)
 
 ## Design
 
-![PowerShell Prompt](http://guilu.github.com/powershellw8/images/screenshots/powershellw8.png?v=4)
+![PowerShell Prompt]http://guilu.github.io/WindowsPowerShell/img/powershellw8.png?v=4)
 
 Note: Inspiration from all dotfiles repos out there....
 
