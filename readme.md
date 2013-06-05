@@ -12,10 +12,12 @@ Note: Inspiration from all dotfiles repos out there....
 
 ## Installation
 
-First open a cmd as administrator and execute `Set-ExecutionPolicy RemoteSigned`
+First open a cmd as administrator and execute 
 
-When executing ´$profile´ you should see something like:
+`Set-ExecutionPolicy RemoteSigned`
 
-´C:\Users\[your user]\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1´
+When executing `$profile` you should see something like:
 
-### That's the file to change....
+`C:\Users\[your user]\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+
+#### That's the file to change....
