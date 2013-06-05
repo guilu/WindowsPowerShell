@@ -3,15 +3,14 @@ Set-Alias rc Edit-PowershellProfile
 $a = (Get-Host).UI.RawUI
 $a.BackgroundColor = "black"
 $a.ForegroundColor = "white"
+$a.WindowTitle = "PowerShell Windows 8"
 
 $strUser = $env:username
 $strHost = $env:computername
 
 function Prompt
 {
-	$b = (Get-Host).UI.RawUI
-	$b.WindowTitle = "Sesión PowerShell"
-	
+
     $path = (Get-Location).Path
     $path = $path.Replace( $HOME, '~' )
     
