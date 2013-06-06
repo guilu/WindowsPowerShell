@@ -1,4 +1,5 @@
 Set-Alias rc Edit-PowershellProfile
+Set-Alias subl 'C:\Program Files\Sublime Text 2\sublime_text.exe'
 
 $a = (Get-Host).UI.RawUI
 $a.BackgroundColor = "black"
